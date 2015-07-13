@@ -5,7 +5,7 @@ var config = {
 
 		,data_inicial: '30/06/2015' // Data de início da sprint (dia 0)
 
-		,data_final: '16/07/2015'   // Data de fechamento da sprint
+		,data_final: '14/07/2015'   // Data de fechamento da sprint
 
 		,dias_sem_jornada: []       // Dias sem jornada de trabalho (exemplo: feriados), Não é necessário informar sábados e domingos.
 
